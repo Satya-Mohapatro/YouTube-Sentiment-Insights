@@ -18,7 +18,7 @@ An end-to-end NLP and MLOps-based system to analyze sentiment from YouTube comme
 
 The following diagram illustrates the end-to-end architecture of the YouTube Sentiment Insights system, covering data ingestion, model training, MLOps workflow, deployment, and frontend integration.
 
-![Project Architecture](architecture_diagram.png)
+![Project Architecture](Documents/Architecture_Daigram.png)
 
 ---
 
